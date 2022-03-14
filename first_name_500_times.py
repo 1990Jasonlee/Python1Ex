@@ -1,2 +1,2 @@
-first_name = "Jason"
+first_name = 'Jason'
 print(first_name * 500)
